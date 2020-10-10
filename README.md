@@ -4,6 +4,8 @@ It detect human faces.
   python file
 # To Run Application
    python face.py
+   
+   press 'q' key to exit.
 # Required Libraries
    Read requirements.txt
    
